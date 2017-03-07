@@ -1,2 +1,2 @@
 # hello-world
-Imma noob
+Imma noob that can't code
